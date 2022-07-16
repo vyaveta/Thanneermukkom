@@ -1,0 +1,31 @@
+body{
+    margin:0%;
+    background-color: rgb(246, 243, 243);
+}
+.head{
+    height: 130px;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(28, 17, 232);
+    padding-top: 35px;
+    padding-left: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.content{
+    background-color: rgba(184, 235, 2, 0.671);
+    color: rgb(0, 0, 0);
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 4%;
+}
+.underline{
+ text-decoration: underline;
+}
+.content2{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 3%;
+}
+.content2{
+    font-size: 25px;
+}

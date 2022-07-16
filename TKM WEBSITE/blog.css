@@ -1,0 +1,20 @@
+body{
+    margin: 0%;
+}
+.lefthead{
+    height: 70px;
+    width: 50%;
+    color: azure;
+    background-color: black;
+    float: left;
+}
+.righthead{
+    height: 70px;
+    width: 50%;
+    color: azure;
+    background-color: black;
+    float: left;
+}
+.lh{
+    padding-left: 10px;
+}

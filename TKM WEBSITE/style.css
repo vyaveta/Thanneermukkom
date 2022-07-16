@@ -1,0 +1,158 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    background: url(schoolimage.png)
+    no-repeat center center;
+    min-height: 30rem;
+}
+
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: #0005;
+    line-height: 80px;
+}
+
+nav ul{
+    float: right;
+    margin: 0;
+    margin-right: 1.9rem;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}
+
+
+
+nav ul li:hover{
+    background-color: #0E96FB;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.section{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section h1{
+    color: #fff;
+    line-height: 50px;
+
+}
+
+.section p{
+    color: gray;
+    
+}
+
+.btn-1{
+    background-color:#0E96FB;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+.features{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.features button{
+    padding: 0.7rem 2rem;
+    margin-right: 2rem;
+    font-size: 1.2rem;
+    opacity: 0.7;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1.2rem;
+    margin-top: 4%;
+    font-family: cursive;
+}
+
+.buttonschoolname{
+    height: 80px;
+    width: 450px;
+    background-color:#0E96FB;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: #fff;
+    
+}
+.underline{
+    text-decoration: underline;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.end{
+    padding-top: 20%;
+}
+
+.vision{
+    margin-bottom: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: aquamarine;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: .5%;
+    padding-bottom: 2%;
+}
+.vision2{
+    font-size: 25PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.sub{
+    font-size: 30px;
+    background-color: #0E96FB;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: #fff;
+    height: 50px;
+    border-radius: 10px;
+    padding-top: 1%;
+}
+.underline2{
+    text-decoration: underline;
+    color: #fff;
+}
+.front{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+   
+}
+.medium{
+    font-size: 20px;
+}
+.section p {
+    color: rgb(202, 200, 200);
+    line-height: 40px;
+}
+.sdetails{
+    margin-left: 2%;
+}
+/*THE END*/

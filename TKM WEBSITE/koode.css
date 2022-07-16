@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.headleft{
+    width: 50%;
+    height: 80px;
+    background-color: rgb(29, 246, 22);
+    float: left;
+    color: aliceblue;
+}
+.headright{
+    width: 50%;
+    height: 80px;
+    background-color: rgb(29, 246, 22);
+    float: left;
+    color: aliceblue;
+}
+.left{
+    padding-left: 20PX;
+}
+.right{
+    padding-top: 5px;
+}
